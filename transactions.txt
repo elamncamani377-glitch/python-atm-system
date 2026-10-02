@@ -1,0 +1,4 @@
+timestamp,phone_number,type,amount,resulting_balance
+2026-10-01 22:21:40,0744547566,DEPOSIT,+500.00,Balance: R500.00
+2026-10-02 15:56:12,0744547566,EFT OUT,-150.00,Balance: R350.00
+2026-10-02 15:56:12,0829990000,EFT IN,+150.00,Balance: R1150.00
